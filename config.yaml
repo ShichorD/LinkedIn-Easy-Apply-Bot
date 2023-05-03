@@ -3,13 +3,13 @@ password:
 phone_number:
 
 positions:
-- Data Scientist
-- # Another position you want to search for
-- # A third position you want to search for
+- Product Manager
+- Product Lead
+- CPO
 
 locations:
 - Remote
-- # A second location you want to search in 
+- London
 
 # --------- Optional Parameters -------
 # uploads:
